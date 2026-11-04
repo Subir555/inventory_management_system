@@ -310,8 +310,8 @@ Data is stored in **binary** format using `fwrite` and read back with `fread`:
 
 | Name | Role |
 |------|------|
-| _Your Name_ | _Developer_ |
-| _Teammate Name_ | _Developer_ |
+| _Subir Gain_| _Developer_|
+| _Priyanka Roy_| _Developer_ |
 
 ---
 
